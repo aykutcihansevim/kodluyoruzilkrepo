@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu Repo [kodluyoruz] (https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet index.html barındırıyor.
+Bu Repo [kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet index.html barındırıyor.
 
 ![ACS](https://raw.githubusercontent.com/aykutcihansevim/aykutcihansevim/main/readMeBanner.png)
 
